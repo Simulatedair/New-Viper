@@ -1,0 +1,47 @@
+.dakuang{
+	width: 1360px;
+	height: 625px;
+}
+.zuotu{
+	float: left;
+	width: 480px;
+	height: 625px;
+}
+.youbian{
+	float: left;
+	width: 880px;
+	height: 625px;
+}
+.shang{
+	float: left;
+	width: 880px;
+	height: 104px;
+}
+.dierge{
+	float: left;
+	width: 880px;
+	height: 94px;
+}
+.oneday{
+	float: left;
+	width: 424px;
+	height: 94px;
+}
+.lianghao{
+	float: left;
+	width: 456px;
+	height: 94px;
+}
+.zhongjian{
+	float: left;
+	height: 289px;
+	width: 880px;
+}
+
+.zuihou{
+	float: left;
+	width:880px ;
+	height:140px ;
+}
+
+
